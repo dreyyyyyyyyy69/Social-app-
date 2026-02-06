@@ -1,0 +1,8 @@
+{
+  "name": "SocialWorld Real-Time",
+  "description": "A real-time social networking application with a global forum, friend request systems, and conditional direct messaging logic (limited messages for non-friends, unlimited for friends).",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
